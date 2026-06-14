@@ -1,5 +1,4 @@
-# saha-analiz-sistemi
-Saha ve dron verilerini karşılaştıran karar destek sistemi.
+
 ---
 
 ## 📢 CO-FOUNDER WANTED: Software & Integration Specialist
