@@ -45,6 +45,6 @@ HOW TO APPLY
 If you have personally engineered and deployed production-grade IoT backends or real-time data pipelines:
 
 👉 **Direct Message (DM)** with a portfolio or links to live, deployed projects.
-👉 Alternatively, securely reach out via encrypted email at: **[Insert Your Secure Email Here]**
+👉 Alternatively, securely reach out via encrypted email at: **[ugurcrea@gmail.com]**
 
 *Note: Inquiries without a tangible project portfolio or code references will not receive a response.*
